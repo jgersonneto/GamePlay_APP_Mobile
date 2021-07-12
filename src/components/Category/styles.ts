@@ -3,20 +3,20 @@ import { theme } from '../../global/styles/theme';
 
 export const styles = StyleSheet.create({
     container: {
-        height:120,
-        width: 104,
+        height:110,
+        width: 94,
         justifyContent: 'center',
         alignItems: 'center',
         borderRadius: 8,
         marginRight: 8,       
     },
     content: {
-        height:116,
-        width: 100,        
+        height:106,
+        width: 90,        
         borderRadius: 8,        
         alignItems: 'center',
         justifyContent: 'space-around',
-        paddingVertical: 20
+        paddingVertical: 15
     },
     check: {
         position: 'absolute',
